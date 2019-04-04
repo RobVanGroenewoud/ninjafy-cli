@@ -1,0 +1,23 @@
+{
+  "name": "ninjafy-cli",
+  "version": "0.0.0",
+  "description": "Converts a string into its Ninja-style equivalent on the command-line",
+  "repository": "RobVanGroenewoud/ninjafy-cli",
+  "main": "cli.js",
+  "bin": {
+    "ninjafy": "cli.js"
+  },
+  "scripts": {
+    "release": "np"
+  },
+  "keywords": [],
+  "author": "Rob van Groenewoud",
+  "license": "MIT",
+  "dependencies": {
+    "meow": "^5.0.0",
+    "ninjafy": "^0.1.0"
+  },
+  "devDependencies": {
+    "np": "^4.0.2"
+  }
+}

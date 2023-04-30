@@ -14,10 +14,10 @@
   "author": "Rob van Groenewoud",
   "license": "MIT",
   "dependencies": {
-    "meow": "^5.0.0",
+    "meow": "^11.0.0",
     "ninjafy": "^0.1.0"
   },
   "devDependencies": {
-    "np": "^4.0.2"
+    "np": "^7.7.0"
   }
 }
